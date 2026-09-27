@@ -13,7 +13,7 @@
 ### 🧠 About Me
 
 ```yaml
-name: Jamie Zhang (张天宇)
+name: Jamie Zhang (张田雨)
 location: London, UK
 education:
   - MSc Telecommunications @ University College London (UCL)
