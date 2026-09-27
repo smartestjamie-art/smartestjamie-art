@@ -63,7 +63,7 @@ I work across **applied AI, computer vision, and signal processing / control sys
 <tr>
 <td width="50%" valign="top">
 
-**🧳 AI Travel Planner** `2026`
+**🧳 [AI Travel Planner](https://github.com/smartestjamie-art/ai-travel-planner)** `2026`
 End-to-end AI trip-planning system (FastAPI + Vue 3). RAG pipeline over ChromaDB with LLM query rewriting + Qwen3-Rerank lifted Top-1 retrieval **80% → 93.3%**; Redis caching cut latency **41.6%** (728ms → 425ms). Full save/edit/export workflow.
 `Python` `FastAPI` `LangChain` `ChromaDB` `Redis` `Vue 3`
 
@@ -79,7 +79,7 @@ Video-based lane detection (ResNet-18 + LSTM) for autonomous driving perception,
 <tr>
 <td width="50%" valign="top">
 
-**📡 Vital Signs Sensing for 6G Networks** `2024–2025`
+**📡 [Vital Signs Sensing for 6G Networks](https://github.com/smartestjamie-art/vital-signs-6g-sensing)** `2024–2025`
 OFDM + FMCW radar ISAC system in MATLAB. Benchmarked 2D-FFT, MUSIC, and VMD — VMD resolved 0.333Hz respiration & 1.12Hz heartbeat. Near-zero BER at 15dB SNR via convolutional coding + Viterbi decoding.
 `MATLAB` `FFT` `VMD` `MUSIC` `OFDM`
 
