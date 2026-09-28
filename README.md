@@ -80,7 +80,7 @@ Video-based lane detection (ResNet-18 + LSTM) for autonomous driving perception,
 <td width="50%" valign="top">
 
 **📡 [Vital Signs Sensing for 6G Networks](https://github.com/smartestjamie-art/vital-signs-6g-sensing)** `2024–2025`
-OFDM + FMCW radar ISAC system in MATLAB. Benchmarked 2D-FFT, MUSIC, and VMD — VMD resolved 0.333Hz respiration & 1.12Hz heartbeat. Near-zero BER at 15dB SNR via convolutional coding + Viterbi decoding.
+OFDM + FMCW radar ISAC system in MATLAB. Benchmarked 2D-FFT, MUSIC, and VMD for vital-sign extraction under 5dB channel noise; after tuning VMD's bandwidth/step-size parameters against ground truth, it became the most accurate of the three (0.345Hz respiration vs. 0.333Hz true, 1.211Hz heartbeat vs. 1.217Hz true). Near-zero BER at 15dB SNR via convolutional coding + Viterbi decoding.
 `MATLAB` `FFT` `VMD` `MUSIC` `OFDM`
 
 </td>
